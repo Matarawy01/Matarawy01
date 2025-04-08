@@ -11,7 +11,7 @@
 ## 🚀 About Me
 - 🏢 I'm a Software Engineer and Embedded Systems Developer.  
 - 👨‍💻 As a Communication and Electronics Engineering student, I'm constantly learning and exploring new technologies.  
-- 💬 Ask me about my experience with **C, Classical Embedded Systems, Linux Adminstration and Embedded Linux**.  
+- 💬 Ask me about my experience with **C, Classical Embedded Systems, Linux Administration, and Embedded Linux**.  
 - ⚡ Fun Fact: I'm a coffee enthusiast! ☕  
 
 ---
@@ -28,7 +28,11 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/RTOS-FFA500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QML-3C4C5E?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
 </p>
+
 
 ---
 
